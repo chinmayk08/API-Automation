@@ -1,0 +1,2 @@
+2025-04-10 16:08:47 [main] INFO  Base.TestBase - createuser method called successfully
+2025-04-10 16:08:47 [main] INFO  Tests.APITest - createUserWithTestData test case passed successfully
