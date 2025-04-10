@@ -1,28 +1,46 @@
-# API-Automation
 
-# 🔧 API Automation Framework
+# API Automation Framework
 
-This project is a robust and scalable **API Automation Framework** built using **Java**, **TestNG**, and **RestAssured**. It is designed to automate REST API testing and validate responses effectively.
+## Description
 
----
+This is a **Java-based API Automation Framework** designed for validating RESTful APIs. It leverages **RestAssured** for API interactions and **TestNG** for test execution and assertions. The framework follows best practices to ensure scalability, reusability, and maintainability for real-world testing needs.
 
-## 📌 Features
+This framework is ideal for Automation Testers and QA professionals preparing for interviews or looking to implement API automation in real-time projects. It supports various HTTP methods (GET, POST, PUT, PATCH, DELETE) and helps automate test cases for functional validation of APIs.
 
-- 🔍 Test REST APIs using GET, POST, PUT, PATCH, and DELETE
-- 🧪 Assertions on status code, response body, headers
-- 🗃️ Structured test data using a `TestData` utility class
-- 🔄 Supports data-driven testing (extendable with DataProvider)
-- 🪵 Logging via Log4j2
-- 📦 Maven-based project for easy dependency management
+## Tools and Technologies Used
 
-## 🚀 Getting Started
+- **Java**
+- **RestAssured**
+- **TestNG**
+- **Maven**
+- **Log4j2** (for logging)
+- **IntelliJ IDEA** (recommended IDE)
 
-### 🔧 Prerequisites
+## Key Features
 
-- Java 17 or higher
-- Maven
-- IntelliJ IDEA or any Java IDE
+- Automates API testing using TestNG and RestAssured
+- Supports CRUD operations: GET, POST, PUT, PATCH, DELETE
+- Validates status codes, response body, and data
+- Uses test data class for dynamic request building
+- Easy to integrate with CI/CD tools
+- Extendable and easy to maintain
+
+## Prerequisites
+
+- JDK 17 or above
+- Maven installed
+- Internet connection to resolve dependencies
+- Git (optional, for version control)
+
+## How to Use
+
+1. Clone the repository or download the source code.
+2. Import the project into IntelliJ or any IDE that supports Maven.
+3. Run tests using TestNG (either via IDE or terminal using `mvn test`).
+4. View logs and results in the console or configure log files.
 
 ## ✍️ Author
 Chinmay kanekar
 📧 chinmaykanekar2@gmail.com
+
+
