@@ -25,42 +25,42 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "chinmayk08"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chinmayk08&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/chinmayk08/API-Automation.git",
-    "accountId": "f1b049d9-7bc6-4dcf-a6a6-f272ff434777"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chinmayk08/API-Automation.git&quot;,
+    &quot;accountId&quot;: &quot;f1b049d9-7bc6-4dcf-a6a6-f272ff434777&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2vX4IO8IDK8mjOaIGE9ii9NXPCJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.APITest.createUserWithTestData.executor": "Run",
-    "TestNG.APITest.executor": "Run",
-    "TestNG.APITest.getUserTest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/Acer/IdeaProjects/API Automation/src/test/java",
-    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/API Automation",
-    "onboarding.tips.debug.path": "C:/Users/Acer/IdeaProjects/API Automation/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.APITest.createUserWithTestData.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.APITest.getUserTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Acer/IdeaProjects/API Automation/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/IdeaProjects/API Automation&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Acer/IdeaProjects/API Automation/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.APITest.createUserWithTestData">
     <configuration name="APITest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomation" />
@@ -148,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744282940543</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created API Automation framework">
+      <option name="closed" value="true" />
+      <created>1744284604372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744284604372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

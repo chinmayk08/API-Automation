@@ -22,6 +22,8 @@ public class APITest extends TestBase {
         String name = data.getUserName();
         String job = data.getUserJob();
 
+
+
         TestBase.createuser();
         System.out.println(Response);
         Assert.assertEquals(RS1, name);
